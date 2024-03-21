@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BdRencontre15.props" />
+</Project>
